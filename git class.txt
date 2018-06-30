@@ -1,6 +1,0 @@
-first class in git
-
-second line
-third line
-
-forth line
